@@ -1,0 +1,25 @@
+*************************** report **************************
+>> 2025-01-07 00:49:44
+
+choosing a file.. 
+activating file: /home/zenyuzien/Downloads/KNUTH/dataset/FW/fw1.rl 
+
+applying GI.. 
+no.of original rules: 1550
+number of intersections: 16167
+time taken to find the intersections: 231.382
+
+Applying SSA-2 ! 
+
+after SSA-2 
+set1: 148 rules 
+set2: 1402 rules 
+set3(any set): 0 rules
+
+Performing re-grouping algo: 
+from a total of 1550 original rules
+HBR: 5 MMR: 322 LMR: 1223 
+bits required to represent HBR: 3, MMR: 9, LMR: 1223
+Totally 1235 to represent the 1550 original rules 
+
+*************************************************************
